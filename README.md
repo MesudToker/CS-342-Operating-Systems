@@ -1,3 +1,3 @@
-# CS-342-Operating-Systems
+# Operating-Systems
 
 5 Projects
